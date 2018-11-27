@@ -1,3 +1,4 @@
+// Pulls from the .env file to get the spotify API 
 require("dotenv").config();
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api');
@@ -33,12 +34,12 @@ spotify.search({
         console.log("ERROR!" + err);
         return;
     } else {
-        console.log("\n -------------------------------------\n");
+        console.log("\n ---------------------------------------\n");
         console.log("Artist: " + data.tracks.items[0].artists[0].name);
         console.log("Song: "+ data.tracks.items[0].name);
         console.log("Preview: " + data.tracks.items[0].preview_url);
         console.log("Album: " + data.tracks.items[0].album.name);
-        console.log("\n --------------------------------------\n");
+        console.log("\n ---------------------------------------\n");
     }
 });
 };
