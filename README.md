@@ -7,3 +7,5 @@
             do-what-it-says
 
 ### play around with these requests by typing in node liri.js in your command terminal with Node.js package loaded up and have a great time! 
+
+## Watch this video of me doing a demo of using the liri bot! : 
