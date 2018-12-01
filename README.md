@@ -1,7 +1,7 @@
 # liri_bot
 
 ## This application functions just like Siri, but instead of using voice inputs from the user, it takes in written requests by using the following commands-
-            Spotify-this-song
+            spotify-this-song
             concert-this
             movie-this
             do-what-it-says
