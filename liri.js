@@ -12,7 +12,7 @@ var moment = require ("moment");
 
 var command = process.argv[2];
 var parameter = process.argv[3];
-var searchMovie = "";
+
 
 // Liri App Functions
 function userExp() {
