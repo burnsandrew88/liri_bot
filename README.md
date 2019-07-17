@@ -1,4 +1,4 @@
-# liri_bot
+# Liri Bot
 
 ## This application functions just like Siri, but instead of using voice inputs from the user, it takes in written requests by using the following commands-
             spotify-this-song
@@ -39,4 +39,4 @@
 
 ### play around with these requests by typing in node liri.js in your command terminal with Node.js package loaded up and have a great time! 
 
-## Watch this video of me doing a demo of using the liri bot! : 
+## Watch this demo of the Liri Bot being used:  https://drive.google.com/file/d/1kBD8ywONnG5Psqwxcn889KaBCDPaWX8F/view
